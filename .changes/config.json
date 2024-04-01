@@ -1,5 +1,5 @@
 {
-  "gitSiteUrl": "https://www.github.com/tauri-apps/tray-icon",
+  "gitSiteUrl": "https://github.com/Pofig1sT161/tray-icon-v0.13",
   "timeout": 3600000,
   "pkgManagers": {
     "rust": {
