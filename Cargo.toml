@@ -49,5 +49,5 @@ png = "0.17"
 [dev-dependencies]
 winit = "0.29"
 tao = "0.16.2"
-image = "0.25"
+image = "0.24"
 eframe = "0.27"
