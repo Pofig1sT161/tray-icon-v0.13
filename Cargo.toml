@@ -3,8 +3,8 @@ name = "tray-icon"
 version = "0.13.0"
 edition = "2021"
 description = "Create tray icons for desktop applications"
-homepage = "https://github.com/tauri-apps/tray-icon"
-repository = "https://github.com/tauri-apps/tray-icon"
+homepage = "https://github.com/Pofig1sT161/tray-icon-v0.13"
+repository = "https://github.com/Pofig1sT161/tray-icon-v0.13"
 license = "MIT OR Apache-2.0"
 categories = [ "gui" ]
 
